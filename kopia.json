@@ -1,0 +1,15 @@
+{
+    "version": "20210323.0.80128",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kopia/kopia/releases/download/v20210323.0.80128/kopia-20210323.0.80128-windows-x64.zip",
+            "bin": [
+                "kopia-20210323.0.80128-windows-x64/kopia.exe"
+            ],
+            "hash": ""
+        }
+    },
+    "homepage": "https://kopia.io/",
+    "license": "Apache-2.0",
+    "description": "Fast and secure open source backup."
+}
