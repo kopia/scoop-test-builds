@@ -1,12 +1,12 @@
 {
-    "version": "20211003.0.164029",
+    "version": "20211003.0.171602",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kopia/kopia-test-builds/releases/download/v20211003.0.164029/kopia-20211003.0.164029-windows-x64.zip",
+            "url": "https://github.com/kopia/kopia-test-builds/releases/download/v20211003.0.171602/kopia-20211003.0.171602-windows-x64.zip",
             "bin": [
-                "kopia-20211003.0.164029-windows-x64/kopia.exe"
+                "kopia-20211003.0.171602-windows-x64/kopia.exe"
             ],
-            "hash": "eaed72ff16d77f39fa76fe0623b0f46fbd6a902f6a128b1bde9af3cb53471518"
+            "hash": "c507a1825403e0e6d77248867f521ab7563f3feeb14b6afeda07c821b35d3021"
         }
     },
     "homepage": "https://kopia.io/",
