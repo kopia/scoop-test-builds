@@ -1,16 +1,16 @@
 {
-    "version": "20211215.0.195859",
+    "version": "20211216.0.152007",
     "description": "Fast and secure open source backup.",
     "homepage": "https://kopia.io/",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kopia/kopia-test-builds/releases/download/v20211215.0.195859/kopia-20211215.0.195859-windows-x64.zip",
+            "url": "https://github.com/kopia/kopia-test-builds/releases/download/v20211216.0.152007/kopia-20211216.0.152007-windows-x64.zip",
             "bin": [
                 "kopia.exe"
             ],
-            "hash": "5582a6cb4d3c35bee37fdef49f12f81100d5624589f54812d124640a58525697",
-            "extract_dir": "kopia-20211215.0.195859-windows-x64"
+            "hash": "5527e8ffa76f903a576de5c6cc8669653db357270ac7ac4881f049db54b72bff",
+            "extract_dir": "kopia-20211216.0.152007-windows-x64"
         }
     }
 }
